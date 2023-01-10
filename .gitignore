@@ -1,0 +1,4 @@
+google_credentials.json
+**/terraform/.terraform
+**/terraform/.terraform.locl.hcl
+**/terraform/terraform.tfstate
